@@ -4,4 +4,4 @@ This is a plugin created for Bukkit, [a commonly used Minecraft Server installat
 Users can only build and destroy in the plots they claim, solving the problem of "griefing" many servers face.
 
 ## How it Works
-The plugin customizes what actions are limited to plots through a config file. By having event listeners, the plugin can track the actions of players in order to determine if what they are doing is allowed **where** they are doing it. Plot objects and the properties of individual players as they pertain to plots are serialized into their own individual YAML files for data storage. These objects are also deserializable.
+The plugin customizes what actions are limited to plots through a config file. By having event listeners, the plugin can track the actions of players in order to determine if what they are doing is allowed **where** they are doing it. Plot objects and the properties of individual players as they pertain to plots are serialized into their own individual YAML files for data storage. These objects are also serializable.

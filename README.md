@@ -1,5 +1,5 @@
 ## Purpose
-This is a plugin created for Bukkit, a commonly used Minecraft Server installation with its own API to control certain aspects server-side as well as listen to player events. The plugin hooks into this API to provide the ability for server moderators to create 3-dimensional regions called plots that can be individually named, and then claimed, by other users on the server.
+This is a plugin created for Bukkit, [a commonly used Minecraft Server installation with its own API](https://hub.spigotmc.org/javadocs/bukkit/) to control certain aspects server-side as well as listen to player events. The plugin hooks into this API to provide the ability for server moderators to create 3-dimensional regions called plots that can be individually named, and then claimed, by other users on the server.
 
 Users can only build and destroy in the plots they claim, solving the problem of "griefing" many servers face.
 
